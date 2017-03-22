@@ -1,6 +1,6 @@
 # Dev Terms
 
-*Here's a list of generic terms that I've heard developers use. Users of these terms often take them for granted, but they can sometimes increase the barrier of entry for others (especially if non-native English speakers).*
+*Here's an [incomplete](https://github.com/joecritch/dev-terms/pulls) list of generic terms that I've heard developers use. Users of these terms often take them for granted, but they can sometimes increase the barrier of entry for others (especially if non-native English speakers).*
 
 ***Note:** I'm not condoning the use of all these terms. (Some might even be slightly cringing.) It's just an attempt to get them all written down and explained.*
 
