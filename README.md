@@ -27,3 +27,7 @@ When you get something "for free", this often means that something works automat
 ## nit
 
 Not the "National Invitation Tournament" in this case. This is just a developer shortening the term "nit-pick", where they're picking up on the small things, and are potentially being quite subjective. Often found in a pull request, and can often be classed as [bikeshed](#bikeshed)ding.
+
+## ship
+
+Developers like to "ship" things. This means to actually release/deploy it.
