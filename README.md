@@ -28,6 +28,10 @@ When you get something "for free", this often means that something works automat
 
 Not the "National Invitation Tournament" in this case. This is just a developer shortening the term "nit-pick", where they're picking up on the small things, and are potentially being quite subjective. Often found in a pull request, and can often be classed as [bikeshed](#bikeshed)ding.
 
+## rubber ducking
+
+Explaining a problem out loud to someone else, or an actual rubber duck, to help think of a solution.
+
 ## ship
 
 Developers like to "ship" things. This means to actually release/deploy it.
