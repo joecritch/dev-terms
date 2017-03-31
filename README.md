@@ -34,7 +34,7 @@ A greenfield project is a project from scratch, where you get much more free rei
 
 ## implementation detail
 
-This is the actual code written for a particular behaviour is irrelevant. It's often just its input and outout that you should be concerned with.
+This is when the actual code written for a particular behaviour is irrelevant. It's often just its input and output that you should be concerned with.
 
 ## nit
 
@@ -51,3 +51,7 @@ Explaining a problem out loud to someone else, or an actual rubber duck, to help
 ## ship
 
 Developers like to "ship" things. This means to actually release/deploy it.
+
+## tech debt
+
+Extra work arising from when the quickest or easiest to implement solution is used, instead of the best or most optimal solution.
