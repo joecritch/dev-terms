@@ -32,6 +32,10 @@ This is the actual code written for a particular behaviour is irrelevant. It's o
 
 Not the "National Invitation Tournament" in this case. This is just a developer shortening the term "nit-pick", where they're picking up on the small things, and are potentially being quite subjective. Often found in a pull request, and can often be classed as [bikeshed](#bikeshed)ding.
 
+## reason about
+
+If something is "easy to reason about", it essentially means it's easy to understand how its parts behave together; and generally being able to keep on top of your codebase.
+
 ## rubber ducking
 
 Explaining a problem out loud to someone else, or an actual rubber duck, to help think of a solution.
