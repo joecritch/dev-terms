@@ -12,6 +12,10 @@ When something is performed "ahead of time", it means that something is done bef
 
 Over-discussing a certain aspect of code which is trivial, such as code formatting. http://bikeshed.com/
 
+## brownfield
+
+A brownfield project is project where you've got to add new features on top of an old, possibly outdated technically, codebase. Opposite of [greenfield](#greenfield).
+
 ## deep dive
 
 When a developer explains some source code, line-by-line. Often on a video or during a talk.
@@ -23,6 +27,10 @@ Working out glitches in an app, often by using the product itself or a related p
 ## for free
 
 When you get something "for free", this often means that something works automatically, without you having to write some code.
+
+## greenfield
+
+A greenfield project is a project from scratch, where you get much more free reign on the technical choices. Not impeded by existing code. Opposite of [brownfield](#brownfield).
 
 ## implementation detail
 
