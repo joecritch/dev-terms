@@ -6,7 +6,7 @@
 
 ## ahead of time
 
-When something is performed "ahead of time", it means that something is done before it's actually needed. Prefetching or eager-loading are equivalents.
+When something is performed "ahead of time", it means that something is done before it's actually needed. Prefetching or eager-loading are equivalents. It can also refer to the compilation phase — i.e. *ahead* of runtime.
 
 ## bikeshed
 
