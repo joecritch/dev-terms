@@ -52,6 +52,10 @@ Explaining a problem out loud to someone else, or an actual rubber duck, to help
 
 Developers like to "ship" things. This means to actually release/deploy it.
 
+## single source of truth
+
+This refers to the practice of persisting the data representation of an entity in only one place. This helps avoid ambiguity and avoid bugs that are caused because different states of the same entity are persisted to and retrieved from different places.
+
 ## tech debt
 
 Extra work arising from when the quickest or easiest to implement solution is used, instead of the best or most optimal solution.
