@@ -36,6 +36,10 @@ A greenfield project is a project from scratch, where you get much more free rei
 
 This is when the actual code written for a particular behaviour is irrelevant. It's often just its input and output that you should be concerned with.
 
+## leaky abstraction
+
+A leaky abstraction refers to any implemented abstraction, intended to reduce (or hide) complexity, where the underlying details are not completely hidden.
+
 ## nit
 
 Not the "National Invitation Tournament" in this case. This is just a developer shortening the term "nit-pick", where they're picking up on the small things, and are potentially being quite subjective. Often found in a pull request, and can often be classed as [bikeshed](#bikeshed)ding.
