@@ -60,6 +60,10 @@ Developers like to "ship" things. This means to actually release/deploy it.
 
 This refers to the practice of persisting the data representation of an entity in only one place. This helps avoid ambiguity and avoid bugs that are caused because different states of the same entity are persisted to and retrieved from different places.
 
+## spaghetti code
+
+"Code that lacks structure or modularity". — [Mike Bostock](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0). Often hard to [reason about](#reason-about).
+
 ## tech debt
 
 Extra work arising from when the quickest or easiest to implement solution is used, instead of the best or most optimal solution.
