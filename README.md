@@ -14,7 +14,7 @@ Over-discussing a certain aspect of code which is trivial, such as code formatti
 
 ## brownfield
 
-A brownfield project is project where you've got to add new features on top of an old, possibly outdated technically, codebase. Opposite of [greenfield](#greenfield).
+A brownfield project is a project where you've got to add new features on top of an old, possibly outdated technically, codebase. Opposite of [greenfield](#greenfield).
 
 ## deep dive
 
