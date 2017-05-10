@@ -12,6 +12,10 @@ When something is performed "ahead of time", it means that something is done bef
 
 Over-discussing a certain aspect of code which is trivial, such as code formatting. http://bikeshed.com/
 
+## boilerplate
+
+A unit of code that has been proved to be efficient and can be reused over and over without change.
+
 ## brownfield
 
 A brownfield project is project where you've got to add new features on top of an old, possibly outdated technically, codebase. Opposite of [greenfield](#greenfield).
