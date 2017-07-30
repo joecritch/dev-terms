@@ -28,6 +28,10 @@ When a developer explains some source code, line-by-line. Often on a video or du
 
 Working out glitches in an app, often by using the product itself or a related product. Comes from "eat your own dogfood".
 
+## footgun
+
+A feature or implementation that will prove to be a mistake in the long-run, essentially "shooting yourself in the foot".
+
 ## for free
 
 When you get something "for free", this often means that something works automatically, without you having to write some code.
