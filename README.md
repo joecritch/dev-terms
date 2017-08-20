@@ -20,6 +20,10 @@ A unit of code that has been proved to be efficient and can be reused over and o
 
 A brownfield project is a project where you've got to add new features on top of an old, possibly outdated technically, codebase. Opposite of [greenfield](#greenfield).
 
+## code golf
+
+The practice of trying to implement a feature with as little code as possible. This might lead to code that's difficult to read\maintain.
+
 ## deep dive
 
 When a developer explains some source code, line-by-line. Often on a video or during a talk.
