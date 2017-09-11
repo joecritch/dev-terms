@@ -44,6 +44,10 @@ When you get something "for free", this often means that something works automat
 
 A greenfield project is a project from scratch, where you get much more free reign on the technical choices. Not impeded by existing code. Opposite of [brownfield](#brownfield).
 
+## guesstimate
+
+An estimation for the cost of developing a feature that is mostly based on a guess.
+
 ## implementation detail
 
 This is when the actual code written for a particular behaviour is irrelevant. It's often just its input and output that you should be concerned with.
