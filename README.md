@@ -79,3 +79,7 @@ This refers to the practice of persisting the data representation of an entity i
 ## tech debt
 
 Extra work arising from when the quickest or easiest to implement solution is used, instead of the best or most optimal solution.
+
+## yak shaving
+
+A series of tasks that must be completed before a project can move forward. Different to bikeshedding, as these tasks are required. Generally: the less "yak shaving", the better.
