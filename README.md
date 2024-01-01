@@ -44,6 +44,10 @@ When you get something "for free", this often means that something works automat
 
 A greenfield project is a project from scratch, where you get much more free reign on the technical choices. Not impeded by existing code. Opposite of [brownfield](#brownfield).
 
+## heisenbug
+
+A bug that disappears or alters its behavior when one attempts to study it.
+
 ## implementation detail
 
 This is when the actual code written for a particular behaviour is irrelevant. It's often just its input and output that you should be concerned with.
